@@ -1,3 +1,6 @@
 # React Practice
-## React 小遊戲 - 點擊數字 1 至 25
+
+[Demo](https://5ock.github.io/Reactpractice/)
+
+## React click number game - click 1 to 25
 ![image](https://github.com/sockdart/Reactpractice/blob/master/1to25.PNG)
